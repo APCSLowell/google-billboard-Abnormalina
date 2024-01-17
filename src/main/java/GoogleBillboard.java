@@ -7,7 +7,7 @@ public void setup()
      double num = Double.parseDouble(ten);
    
 if(isPrime(num)) {
-      System.out.println(ten + "is prime");
+      System.out.println(ten);
       break;
     }
 }
